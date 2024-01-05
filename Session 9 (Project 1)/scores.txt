@@ -1,0 +1,10 @@
+Parnia : 100
+Barbod : 102
+Mohammad : 98
+Amin : 111
+Mani : 145
+Kasra : 193
+Barsam : 170
+Arman : 78
+Hadis : 98
+Mojtaba : 101
